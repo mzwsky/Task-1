@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+  
+#header{
+	    font-family:"Microsoft Yahei";
+	    padding: 0;
+		margin: 0;
+	    background:#464242;
+		height:140px;
+		box-shadow:0px 0px 12px;
+		}
+#header .logo{
+	     float:left;
+	     padding:20px;
+        }
+#list{
+	    padding-top:35px;
+	    padding-right:15px;
+      }
+#list li{
+	          display:inline-block;
+	          float:right;
+			  font-weight:bold;
+			  margin:0 0 0 30px;
+			  font-size:20px;
+			  color:#000000;
+	    }
+#list a{ color:#FFF; }
+body{
+	  font-family:"Microsoft Yahei"; 
+      background: #e7e7e7;
+	  min-width: 980px;
+     }
+.block1{
+	   margin:40px;
+	   padding:20px 30px 20px 30px;
+	   background:white;
+	   box-shadow:0px 0px 12px;
+      }
+.title1{
+	    font-weight:900;
+		font-size:40px;
+       }
+.title2{
+	     font-size:30px;
+		 color:#999;
+        }
+.paragraph1{
+	       text-indent:2em;
+		   line-height:2em;
+        }
+.writer{
+	     text-indent:1em;
+	     color:#999;
+		 font-size:16px;
+		 font-weight:bold;
+       }
+.img1{
+	  padding:20px;
+	  width:300;
+      height:auto;
+     }
+.list1 li{
+        list-style:none;
+		font-size:20px;
+		line-height:1em;
+        }
+.list2 li{
+	      margin-top:20px;
+		  margin-bottom:30px;
+		  padding-bottom:20px;
+		  text-align: center;
+	      list-style:none;
+		  border:1px solid #CCC;
+          margin-right:550px;
+}
+         }
+.list2 li p{
+	       text-align: center;
+		   font-weight:500;
+           }
+.list2 li img{
+	           width:200px;
+			   height:auto;
+          }         
+.list3{
+	   font-weight:bold;
+	   font-size:20px;
+      }
+.tab{
+	 text-align:center;
+	 font-weight:bold;
+	 font-size:24px;
+	 }
+.table1{
+	    width:100%;
+       }
+.tabhead{
+	   background:#333;
+	   color:white;
+}
+.tablast{
+	   background:#999
+}
+.title3{
+      border-left:5px solid #666;
+	  padding-left:10px;
+}
+.form1,.form2,.form3,.form4,.form5
+      {
+       display:block;
+      }
+.form1{
+	   padding-left:250px;
+      }
+.form2{
+	   line-height:30px;
+	   padding-left:300px;
+      }
+.form3{
+	   line-height:30px;
+	   margin-top:20px;
+      }
+.step1,.step2,.step3,.step4,.step5,.step6,.step7,.step10
+     {
+	  display:block;
+	  }
+.tip{
+	    font-size:14px;
+		margin-top:5px;
+		padding-top:0px;
+		padding-left:123px;
+		color:#999
+      }
+.step1{
+	   margin-bottom:0px;
+	   padding-bottom:0px;
+	   }
+.step2{
+	    margin-bottom:10px;
+		padding-left:2em;
+}
+.step8{     margin-left:250px;
+			  display:inline-block;
+			  float:left;
+             }
+.step9{
+	   		display:inline-block;
+      }
+.step10{
+	    text-align:center;
+       }
+.person{
+	   font-weight:300;
+       }
+	 
+.text{
+	    width:500px;
+      }
+.submit{ 
+         color:#FFF;
+	     width:800px;
+		 background:#39C;
+       }
+.foot{
+	      height: 70px; 
+ 	      color: #fff; 
+ 	      background-color:#000; 
+ 	     line-height: 100px; 
+ 	     text-align: center;
+		 font-weight:bold;
+		 padding-bottom:20px;
+		 box-shadow:0px 0px 12px; 
+}
